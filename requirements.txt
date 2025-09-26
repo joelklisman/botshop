@@ -1,5 +1,5 @@
-Flask
-python-dotenv
+Flask==3.1.2
+python-dotenv==1.1.1
 python-telegram-bot==13.15
-urllib3==1.26.20
-six==1.16.0
+urllib3==2.2.3
+six==1.17.0
